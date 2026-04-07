@@ -2,8 +2,8 @@
 
 A sleek, lightweight, and modern progress bar for FiveM servers. Designed for **absolute universal compatibility**, this script seamlessly integrates into any framework—whether you're using **QBCore**, **ESX**, or a custom framework—without requiring you to modify your existing scripts.
 
-![Showcase Image](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/240420cc-4311-434a-b24e-c3532513f1f1" />
-)
+![Showcase Image] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/240420cc-4311-434a-b24e-c3532513f1f1" />
+
 ![Showcase Image] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bfaeb072-3feb-440c-8b90-c82486f3cebc" />
 
 
