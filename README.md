@@ -104,4 +104,4 @@ The system automatically registers and translates the following common triggers 
 
 ## 💬 Support & Contributing
 
-If you encounter any bugs or have feature requests, please open an Issue or a Pull Request on GitHub. Contributions are highly welcomed!
+If you encounter any bugs or have feature requests, please open an ticket at our disocrd !  [Discord](https://discord.gg/vBdjRUej4H) 
